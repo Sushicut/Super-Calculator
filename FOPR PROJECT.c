@@ -6,7 +6,7 @@ int main()
 {
 	char menu, try;
 	int n, i, operator;
-	float num[n], sum = 0, ave, smallest, x = 0;
+	float num[100], sum = 0, ave, smallest, x = 0;
 	double factorial = 1;
 	
 	do{
@@ -174,11 +174,11 @@ int main()
 			printf("square root, average, and lowest number computations.\n\n");
 			
 			printf("\t\t     Developers\n\n");
-			printf("Aleckxis Aurelius Barcelona\n");
-			printf("Janua Leah Panes\n");
-			printf("Maria Princess Ann Ortillo\n");
-			printf("Iris Daxen Otchoc\n");
-			printf("Jonathan Dantes");
+			printf("A***************a\n");
+			printf("J**************s\n");
+			printf("M*******************o\n");
+			printf("I*******************c\n");
+			printf("J*****************s");
 		}
 		
 		//exit
